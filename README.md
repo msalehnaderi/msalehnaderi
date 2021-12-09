@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @msalehnaderi
-- 👀 I’m interested in AI
+- 👀 I’m interested in Tech
 - 🌱 I’m currently learning AI
 - 📫 How to reach me: msalehnaderi.ir
